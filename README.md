@@ -1,17 +1,17 @@
 ﻿# ANY_Podedex-Guide
 
 
-# This project is a Pokedex Guide, there are 151 Pokedex figure placed in the project. Seacrch them, see their photos and details. 
+ This project is a Pokedex Guide, there are 151 Pokedex figure placed in the project. Seacrch them, see their photos and details. 
 
 
 
-# Technologies Used: 
+ Technologies Used: 
 
-# • HTML5, 
+ • HTML5, 
 
-# • CSS,
+ • CSS,
 
-# • JAVASCRIPT
+ • JAVASCRIPT
 
 
 
